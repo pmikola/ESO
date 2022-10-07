@@ -1,0 +1,18 @@
+Imeas1arr = table2array(Imeas1)
+Imeas2arr = table2array(Imeas2)
+Imeas3arr = table2array(Imeas3)
+Imeas4arr = table2array(Imeas4)
+Imeas5arr = table2array(Imeas5)
+Imeas6arr = table2array(Imeas6)
+Imeas7arr = table2array(Imeas7)
+Imeas8arr = table2array(Imeas8)
+
+Umeas1arr = table2array(Umeas1)
+Umeas2arr = table2array(Umeas2)
+Umeas3arr = table2array(Umeas3)
+Umeas4arr = table2array(Umeas4)
+Umeas5arr = table2array(Umeas5)
+Umeas6arr = table2array(Umeas6)
+Umeas7arr = table2array(Umeas7)
+Umeas8arr = table2array(Umeas8)
+
